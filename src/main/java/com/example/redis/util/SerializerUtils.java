@@ -1,4 +1,4 @@
-package com.nexp.redis.util;
+package com.example.redis.util;
 
 
 import java.io.ByteArrayInputStream;

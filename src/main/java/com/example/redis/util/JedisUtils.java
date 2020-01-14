@@ -1,4 +1,4 @@
-package com.nexp.redis.util;
+package com.example.redis.util;
 
 import java.util.List;
 import java.util.Map;
